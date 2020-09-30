@@ -1,2 +1,2 @@
-# PhotographyPortal
-Customer wise photo shoot by Photographer
+# PhotographyspotPortal
+photography for customer's on their likes,wishes & needs....
